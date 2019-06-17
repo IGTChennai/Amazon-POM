@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/java-client-5.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.10-src.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="lib/reflections-0.9.11.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="lib/jbehave-core-3.5.4.jar"/>
+	<classpathentry kind="lib" path="lib/jbehave-core.jar"/>
+	<classpathentry kind="lib" path="lib/jbehave-junit-runner-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jbehave-web-io.jar"/>
+	<classpathentry kind="lib" path="lib/jbehave-web-runner.jar"/>
+	<classpathentry kind="lib" path="lib/jbehave-web-selenium.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
